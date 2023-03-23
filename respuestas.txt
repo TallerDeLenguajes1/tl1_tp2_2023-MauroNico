@@ -1,0 +1,6 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué
+
+-Si, ya que estoy trabajando sobre el repositorio local, sin embargo no se estara tomando en cuenta el archivo en branch Main.
+
+Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+-En precede, se encuentra el commit que realice y los archivos que modifique con el mismo.
